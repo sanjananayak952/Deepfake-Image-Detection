@@ -13,11 +13,9 @@ The project uses advanced deep learning techniques to identify deepfake images w
 This project was collaboratively created by:
 - *Aditya Raj*: [GitHub Profile](https://github.com/Aditya-0009)  
   Lead Developer  
-- *Sanjana Nayak*  
-- *Shreeya Pandey*  
+- *Sanjana Nayak*: [GitHub Profile](https://github.com/sanjananayak952)
+- *Shreeya Pandey*: 
 - *Shivam Garg*
-- 
-- *{Sanjana Nayak}*:[GitHub Profile](https://github.com/sanjananayak952)
 
 
 For more details, visit the [original repository](https://github.com/Aditya-0009/Deepfake-image-detection).
