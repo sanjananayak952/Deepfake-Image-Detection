@@ -1,6 +1,6 @@
 # Deepfake Image Detection
 
-<img src="logo4.jpeg" width="300"/>  
+
 <strong>Deepfake Image Detection</strong> is an AI-powered system designed to classify images as **'real'** or **'fake'** with visual explanations. It combines state-of-the-art deep learning techniques with explainability tools to help users understand the AI's decision-making process.
 
 ---
