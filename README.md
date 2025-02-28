@@ -29,7 +29,7 @@
 
 ### Clone the repository
 ```bash
-git clone (https://github.com/sanjananayak952/Deepfake-Image-Detection)
+git clone https://github.com/sanjananayak952/Deepfake-Image-Detection
 ```
 ---
 
