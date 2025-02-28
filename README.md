@@ -55,7 +55,8 @@ If you encounter any issues, feel free to email me, and I’ll get back to you a
 GitHub: [sanjananayak952](https://github.com/sanjananayak952)  
 Email: [sanjananayak952@gmail.com](mailto:sanjananayak952@gmail.com)  
 LinkedIn: [Sanjana Nayak](https://www.linkedin.com/in/sanjana-nayak-82a06025b/)
-
+### 🔗 Original Repository  
+[Project Repository](https://github.com/Aditya-0009/Deepfake-image-detection)) 
 
 **Collaborators**:  
 - Aditya Raj  
