@@ -52,9 +52,10 @@ If you encounter any issues, feel free to email me, and I’ll get back to you a
 ## 👨‍💻 Created By
 
 **Sanjana Nayak**  
-GitHub: [sanjananayak952](https://github.com/sanjananayak952)
+GitHub: [sanjananayak952](https://github.com/sanjananayak952)  
 Email: [sanjananayak952@gmail.com](mailto:sanjananayak952@gmail.com)  
 LinkedIn: [Sanjana Nayak](https://www.linkedin.com/in/sanjana-nayak-82a06025b/)
+
 
 **Collaborators**:  
 - Aditya Raj  
