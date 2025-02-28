@@ -23,15 +23,7 @@
 - **Grad-CAM**: For visualizing model predictions.
 - **VGGFace2**: Dataset for pre-training the InceptionResNetV1 model.
 
----
-## 🖼️ Visual of the Tool
 
-Here’s a snapshot of the tool in action:
-
-![Homepage](home.png)  
-The homepage demonstrates how the deepfake detection system works. Users can upload an image for classification, and the model predicts whether the image is "Real" or "Fake." It also provides Grad-CAM explainability to highlight critical regions influencing the decision.
-
----
 
 ## 🛠️ How to Run Locally
 
